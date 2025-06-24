@@ -1,71 +1,53 @@
-# Gianluca Rizzo – Software Developer Internship Application
+# 👋 Hi, I'm Gianluca Rizzo
 
-Welcome! This repository was created to support my application for the **Software Developer Intern** role at **Dayforce** for the Fall 2025 – Winter 2026 term.
+🎓 I'm a Computer Engineering Technology student at Humber College (Advanced Diploma - Co-op Program), currently seeking a **Fall 2025/Winter 2026 Co-op** opportunity. I'm passionate about low-level systems, AI, embedded programming, and building real-world solutions using both hardware and software.
 
-## 📌 About Me
+## 💼 About Me
 
-I’m a **Computer Engineering Technology** student at **Humber College** with a passion for full-stack development, low-level systems, AI, and cloud-based solutions. I’m currently seeking a co-op opportunity where I can apply and deepen my knowledge in software engineering, operating systems, and cloud technologies.
+- 🛠️ Experience with **low-level C** operating system development  
+- 🤖 Built projects using **Python (TensorFlow, Scikit-learn)** for machine learning  
+- 📱 Developed Android applications using **Java and Android Studio**  
+- 💻 Built an 8-bit computer on breadboards — ask me about it!  
+- 📦 Created microcontroller apps with **Arduino and Raspberry Pi**  
+- 🧠 Strong foundation in **Java, JavaScript, C++, and C#**  
+- 🛡️ Professional experience with **PowerShell scripting, Windows server deployment**, and **Microsoft Azure support**
 
-- 🎓 Dean’s Honor List | 85% CGPA
-- 💻 Experience in Java, C++, Python, PowerShell, JavaScript
-- 📱 Developed Android apps using Android Studio
-- 🤖 Built AI models using TensorFlow and Scikit-learn
-- 🧠 Currently writing a low-level operating system in C
-- 🔌 Built an 8-bit computer on breadboards from scratch
+## 🧠 Skills
 
-## 🛠️ Technical Skills
+- **Languages:** C, C++, Java, JavaScript, C#, Python  
+- **Tools & Platforms:** Android Studio, TensorFlow, Scikit-learn, Arduino, Raspberry Pi, PowerShell  
+- **Concepts:** Computer architecture, Operating Systems, Networking, Cybersecurity, AI/ML  
+- **Soft Skills:** Communication, Problem-solving, Organization, Time management
 
-| Category         | Technologies/Tools                           |
-|------------------|-----------------------------------------------|
-| Languages        | Java, C++, Python, C#, PowerShell, JavaScript |
-| Web              | HTML, CSS, JSON                               |
-| Frameworks       | .NET, Android SDK, TensorFlow, Scikit-learn   |
-| Tools & Platforms| Visual Studio, Android Studio, Git, GitHub    |
-| Hardware         | Arduino, Raspberry Pi, Breadboarding          |
-| OS               | Windows, Linux                                |
+## 📚 Education
 
-## 🧪 Notable Projects
+**Humber College** – Computer Engineering Technology (Co-op)  
+📍 Etobicoke, Ontario | 🗓️ Sept 2023 – Present  
+- Dean’s Honour List  
+- 85% CGPA across first 3 semesters
 
-### 🔧 Low-Level Operating System (C)
-- Custom bootloader, memory management, and shell
-- Purpose: Learn how OSes interact with hardware
+## 🌐 Portfolio & Links
 
-### 🤖 Machine Learning Playground
-- Experiments with classification models using Scikit-learn
-- Projects include digit recognition and clustering
+- 🔗 [Portfolio Website](https://grizz142003.github.io)
+- 💼 [LinkedIn](http://www.linkedin.com/in/gianluca-rizzo-4aa281288)
+- 📬 [Email](mailto:gianlucarizzo440@gmail.com)
+- 🖥️ [Resume PDF](./GianlucaRizzo-Resume-FALL2025Coop.pdf)
 
-### 📱 Android Shopping List App
-- Built with Java and XML using Android Studio
-- Implements RecyclerView, local storage, and custom UI
+## 🔧 Recent Work
 
-More projects and code samples are available on my [GitHub](https://github.com/yourusername).
+- **Operating System Development** – Building a basic kernel in C from scratch  
+- **AI Projects** – Creating classification models using real-world datasets  
+- **Android App Dev** – Made mobile apps with multiple fragments, input validation, and UI design  
+- **PowerShell Automation** – Scripts for silent installs and client-side deployments  
+- **Hardware Integration** – Projects with Arduino sensors and Raspberry Pi modules
 
-## 💼 Work Experience
+## 📊 GitHub Stats *(Optional)*
 
-**Level 1 Windows Technician – Tenecom Solutions**  
-*January – April 2025*  
-- Resolved tickets related to Microsoft Azure and Windows  
-- Automated deployments with PowerShell scripting  
-- Participated in server deployments and cybersecurity rollouts
-
-**Dairy Clerk – Fortinos (Loblaws)**  
-*2021 – Present*  
-- Gained soft skills: teamwork, customer service, time management  
-- Certified forklift operator
-
-## 📫 Contact
-
-- 📍 Vaughan, Ontario  
-- 📞 (647) 991-4220  
-- 📧 gianlucarizzo440@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link)  
-- 💻 [GitHub](https://github.com/yourusername)
-
-## 🙏 Thank You
-
-Thank you for reviewing my application! I'm excited for the opportunity to contribute to Dayforce’s development team and learn from industry leaders.
+<!-- GitHub Stats (Enable this if you'd like to show your contributions) -->
+<!--
+![Gianluca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grizz142003&show_icons=true&theme=radical)
+-->
 
 ---
 
-
-
+Thanks for visiting my profile! Let’s build something awesome together 🚀
