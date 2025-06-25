@@ -41,13 +41,4 @@
 - **PowerShell Automation** – Scripts for silent installs and client-side deployments  
 - **Hardware Integration** – Projects with Arduino sensors and Raspberry Pi modules
 
-## 📊 GitHub Stats *(Optional)*
-
-<!-- GitHub Stats (Enable this if you'd like to show your contributions) -->
-<!--
-![Gianluca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grizz142003&show_icons=true&theme=radical)
--->
-
----
-
 Thanks for visiting my profile! Let’s build something awesome together 🚀
